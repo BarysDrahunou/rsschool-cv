@@ -1,4 +1,4 @@
-<h2><b>Boris Dragunov<b><h2>
+<h2><b>Boris Dragunov</b></h2>
 
 My contacts:
 Email: barysdrahunou@gmail.com
