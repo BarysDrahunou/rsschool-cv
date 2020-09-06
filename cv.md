@@ -9,7 +9,7 @@ Summary:
 I'm trying to learn as much as possible
 
 Skills:
-Java, a few JavaScript, Python and SQl
+Java, a little JavaScript, Python and SQl
 
 Code samples:
 Just open and watch:
