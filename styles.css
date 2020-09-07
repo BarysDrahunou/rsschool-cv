@@ -1,9 +1,35 @@
-.full-project{
-    margin: 0 auto;
+.full-project {
+    background-color: aliceblue;
+    margin: 5% auto 5% auto;
     border: 2px dotted seagreen;
     width: 500px;
 }
-.my-photo{
+
+.my-header,
+.my-photo,
+.my-contacts,
+.summary,
+.skills,
+.code-samples,
+.experience,
+.education,
+.english {
+    border: 2px dotted black;
+}
+
+.my-header {
+    text-align: center;
+    font-family: Tahoma, sans-serif;
+
+    width: 50%;
+    float: left;
+    margin: 40px 50px 100px 20px;
+}
+
+.my-photo {
     height: 100px;
     width: 100px;
+
+    float: right;
+    margin: 20px 50px 100px 0;
 }
