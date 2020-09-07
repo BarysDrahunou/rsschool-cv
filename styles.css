@@ -1,0 +1,9 @@
+.full-project{
+    margin: 0 auto;
+    border: 2px dotted seagreen;
+    width: 500px;
+}
+.my-photo{
+    height: 100px;
+    width: 100px;
+}
