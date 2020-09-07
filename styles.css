@@ -1,35 +1,39 @@
 .full-project {
     background-color: aliceblue;
-    margin: 5% auto 5% auto;
+    margin: 5% auto;
     border: 2px dotted seagreen;
     width: 500px;
-}
-
-.my-header,
-.my-photo,
-.my-contacts,
-.summary,
-.skills,
-.code-samples,
-.experience,
-.education,
-.english {
-    border: 2px dotted black;
+    line-height: 25px;
 }
 
 .my-header {
-    text-align: center;
-    font-family: Tahoma, sans-serif;
-
-    width: 50%;
     float: left;
-    margin: 40px 50px 100px 20px;
+    height: 40px;
+    font-size: 24px;
+    font-family: Tahoma, sans-serif;
+    color: teal;
+    width: 50%;
+    text-align: center;
+    padding-left: 10%;
+    padding-top: 5%;
 }
 
 .my-photo {
+    float: left;
     height: 100px;
     width: 100px;
-
-    float: right;
-    margin: 20px 50px 100px 0;
+    padding-left: 10%;
+    padding-top: 5%;;
 }
+
+
+.subheaders {
+    padding-left: 5%;
+    font-weight: bold;
+}
+
+.info {
+    font-family: Arial, sans-serif;
+    padding-left: 5%;
+}
+
