@@ -1,0 +1,39 @@
+.full-project {
+    margin: 5% auto;
+    width: 500px;
+    line-height: 25px;
+    background-color: aliceblue;
+    border: 2px dotted seagreen;
+}
+
+.my-header {
+    padding-left: 10%;
+    padding-top: 5%;
+    float: left;
+    height: 40px;
+    width: 50%;
+    font-size: 24px;
+    font-family: Tahoma, sans-serif;
+    color: teal;
+    text-align: center;
+}
+
+.my-photo {
+    padding-left: 10%;
+    padding-top: 5%;;
+    float: left;
+    height: 100px;
+    width: 100px;
+}
+
+
+.subheaders {
+    padding-left: 5%;
+    font-weight: bold;
+}
+
+.info {
+    padding-left: 5%;
+    font-family: Arial, sans-serif;
+}
+
